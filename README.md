@@ -1,2 +1,2 @@
 # ms-survey
-Survey for Masan, old project
+Survey for ms, old project
